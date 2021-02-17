@@ -1,3 +1,4 @@
+# Pure Functions Only
 
 ### Summary:
 
