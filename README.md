@@ -1,6 +1,8 @@
 # coderetreatConstraints
 * Beginner Constraints
   * [Break All The Rules](BreakAllTheRules.md)  
+  * [New Language]()
+  * [Test First]()
 * Keyboard Constraints
   * [Evil Ping Pong](EvilPingPong.md)      
   * [No Mouse](NoMouse.md)
@@ -19,4 +21,5 @@
   * [Walking Skeleton](WalkingSkeleton.md)
 * Advanced Constraints
   * [Test Commit Revert](TestCommitRevert.md)      
-  * [Undecided Customer](UndecidedCustomer.md)      
+  * [Undecided Customer](UndecidedCustomer.md)
+  * [Hexigonal Board]()      
