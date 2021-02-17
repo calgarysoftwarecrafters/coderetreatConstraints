@@ -1,1 +1,18 @@
 # coderetreatConstraints
+
+[Baby Steps](BabySteps.md)  
+[Break All The Rules](BreakAllTheRules.md)  
+[Campground Rules](CampgroundRules.md)  
+[Classist Design With TDD](ClassistDesignWithTDD.md)      
+[Evil Ping Pong](EvilPingPong.md)      
+[Minimal Viable Product](MinimalViableProduct.md)      
+[Mockist Design With TDD](MockistDesignWithTDD.md)      
+[No Conditionals](NoConditionals.md)      
+[No Mouse](NoMouse.md)
+[Ping Pong Pairing](PingPongPairing.md)      
+[Pure Functions Only](PureFunctionsOnly.md)      
+[Single Responsibility Principle](SingleResponsibilityPrinciple.md)      
+[Stupid Code and Smart Data Structures](StupidCodeSmartDataStructures.md)      
+[Test Commit Revert](TestCommitRevert.md)      
+[Undecided Customer](UndecidedCustomer.md)      
+[Walking Skeleton](WalkingSkeleton.md)
