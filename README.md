@@ -23,7 +23,7 @@
   * [Event Driven Only]()
 * Testing Constraints
   * [Golden Master Tests]()
-  * [Testing Loop]()
+  * [Testing Circle]()
 * Advanced Constraints
   * [Test Commit Revert](TestCommitRevert.md)      
   * [Undecided Customer](UndecidedCustomer.md)
