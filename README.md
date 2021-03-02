@@ -22,7 +22,7 @@
   * [Walking Skeleton](WalkingSkeleton.md)
   * [Event Driven Only]()
 * Testing Constraints
-  * [Use Golden Master Tests]()
+  * [Golden Master Tests]()
 * Advanced Constraints
   * [Test Commit Revert](TestCommitRevert.md)      
   * [Undecided Customer](UndecidedCustomer.md)
