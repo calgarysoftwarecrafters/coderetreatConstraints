@@ -9,7 +9,8 @@ This constraint comes from [this blog article by Adrian Bolboaca](https://blog.a
 #### 1. Start with a hexagonal board
 Each cell has 6 first-tier neighbours (The ones immediately surrounding it) and 6 second-tier neighbours:
 
-```_ _ _ _ _ _ _ _
+```
+_ _ _ _ _ _ _ _
  _ _ _ 2 _ _ _ 
 _ _ 2 1 1 2 _ _
  _ _ 1 X 1 _ _ 
