@@ -15,7 +15,8 @@ _ _ 2 1 1 2 _ _
  _ _ 1 X 1 _ _ 
 _ _ 2 1 1 2 _ _
  _ _ _ 2 _ _ _ 
-_ _ _ _ _ _ _ _```
+_ _ _ _ _ _ _ _
+```
 
 When calculating whether or not a cell should survive, first tier neighbours add 1 point to the cell's survivability score. Secont tier neighbours add 0.3 points.
 * A live cell with a survivability score less than 2.0 dies
