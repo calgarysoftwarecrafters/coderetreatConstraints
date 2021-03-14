@@ -1,4 +1,4 @@
-# Hexigonal Board
+# Hexagonal Board
 
 ### Summary:
 
