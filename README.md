@@ -2,6 +2,7 @@
 * Beginner Constraints
   * [Break All The Rules](BreakAllTheRules.md)  
   * [New Language](NewLanguage.md)
+  * [No Code](NoCode.md)
   * Test First
 * Keyboard Constraints
   * [Evil Ping Pong](EvilPingPong.md)      
