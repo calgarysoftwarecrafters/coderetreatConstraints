@@ -2,7 +2,7 @@
 
 ### Summary:
 
-Hexigon grid instead of square.
+Board uses a hexagonal grid instead of a square grid.
 
 
 ### Details:
@@ -16,7 +16,7 @@ Hexigon grid instead of square.
 1. Birth 
     1. Birth occurs between [2.3 - 2.9] inclusive. 
 
-
+**note:** The layout of the hexagons can be have a flat or pointy orientation. It doesn't matter which you use, as long as it is consistent throughout. 
 
 ![image](images/hexagonal_board.png)
 
