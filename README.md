@@ -28,7 +28,7 @@
 * Advanced Constraints
   * [Test Commit Revert](TestCommitRevert.md)      
   * [Undecided Customer](UndecidedCustomer.md)
-  * [Hexagonal Board](HexigonalBoard.md)   
+  * [Hexagonal Board](HexagonalBoard.md)   
   * [Cells with Friends](CellsWithFriends.md)
   * [VampireCells](VampireCells)   
   * [The Toughest Constraint (So far...)](ToughestConstraint.md)
