@@ -30,5 +30,5 @@
   * [Undecided Customer](UndecidedCustomer.md)
   * [Hexagonal Board](HexagonalBoard.md)   
   * [Cells with Friends](CellsWithFriends.md)
-  * [VampireCells](VampireCells)   
+  * [VampireCells](VampireCells.md)   
   * [The Toughest Constraint (So far...)](ToughestConstraint.md)
