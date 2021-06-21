@@ -20,5 +20,12 @@ Board uses a hexagonal grid instead of a square grid.
 
 ![image](images/hexagonal_board.png)
 
+### Resources
+
+* [Blog: Hexploration](http://llewellynfalco.blogspot.com/2021/06/hexploration.html)
+
+#### Example Repo's
+* [Java](https://github.com/isidore/HexGameOfLife/tree/master/src)
+
 ----
 [Main List](./#coderetreatconstraints)
