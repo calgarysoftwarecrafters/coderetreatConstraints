@@ -1,4 +1,5 @@
-# coderetreatConstraints
+# Conway's Game of Life Constraints for Coderetreat
+
 * Beginner Constraints
   * [Basic Game](BasicGame.md)
   * [Break All The Rules](BreakAllTheRules.md)  
