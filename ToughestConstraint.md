@@ -4,11 +4,10 @@
 So, you're _really_ up for a challenge, eh?
 
 ### Description
-This constraint comes from [this blog article by Adrian Bolboaca](https://blog.adrianbolboaca.ro/2014/11/coderetreat-toughest-constraint/). This Constraint mixes the Hexagonal board constraint with wormholes, a dynamic space structure, and a flexible definition of time. Still want to give it a go? Read on.
+This constraint comes from [this blog article by Adrian Bolboaca](https://blog.adrianbolboaca.ro/2014/11/coderetreat-toughest-constraint/). It mixes the Hexagonal board constraint with wormholes, a dynamic space structure, and a flexible definition of time. Still want to give it a go? Read on.
 
 #### 1. Start with an orthogonal board
 Conway's normal rules apply here.
-
 
 #### 2. Add Wormholes
 A wormhole is a vertical band of cells that sends cells from one place to another on an orthogonal board.
