@@ -12,7 +12,7 @@ You are required to stop and refactor before moving onto the next test
 *   Write a test
 *   Watch it fail
 *   Write some code to make it pass
-*   Refactor: You must improve the code in some way, before you can write your next test:
+*   Refactor: You must improve the code in some way, before you can write your next test.
 
 
 ### Example:
