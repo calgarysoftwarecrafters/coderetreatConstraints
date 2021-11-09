@@ -32,6 +32,7 @@ DO THIS:
 
 NOT THIS
 
+todo: update this image
 ![Not respecting the Single Responsibility Principle](images/srp2.png)
 
 In the above diagram, x and y are variables. A, B, C, D and E are methods. The blue boxes represent classes. A&B are in the same class because they are related. C, D and E are also in the same class because they are related. A and C are not in the same class because they are not related.
