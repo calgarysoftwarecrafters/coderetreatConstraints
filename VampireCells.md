@@ -21,3 +21,8 @@ Some cells feed off of their neighbors.
 
 
 ![image](images/vampire_cells.jpg)
+
+
+### Exploration
+
+![Image of blinker like board](https://raw.githubusercontent.com/PrivateCodeRetreat3/VampireCells/master/src/test/java/org/samples/SampleTests.testGuiBoard.approved.gif)
