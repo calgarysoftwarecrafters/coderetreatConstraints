@@ -26,3 +26,5 @@ Some cells feed off of their neighbors.
 ### Exploration
 
 ![Image of toad](https://github.com/PrivateCodeRetreat3/VampireCells/blob/master/src/test/java/org/samples/SampleTests.testGuiToad.approved.gif?raw=true)
+
+![The Vampire](https://github.com/PrivateCodeRetreat3/VampireCells/raw/master/src/test/java/org/samples/Exploration_the_vampire.gif)
