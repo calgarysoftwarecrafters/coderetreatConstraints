@@ -25,4 +25,4 @@ Some cells feed off of their neighbors.
 
 ### Exploration
 
-![Image of blinker like board](https://raw.githubusercontent.com/PrivateCodeRetreat3/VampireCells/master/src/test/java/org/samples/SampleTests.testGuiBoard.approved.gif)
+![Image of toad](https://github.com/PrivateCodeRetreat3/VampireCells/blob/master/src/test/java/org/samples/SampleTests.testGuiToad.approved.gif?raw=true)
